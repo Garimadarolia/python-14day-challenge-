@@ -6,17 +6,17 @@
 - [✓] Day 5: Dictionaries and Tuples
 - [✓] Day 6: Solved Python related problems on freeCodeCamp Python Practice
 - [✓] Day 7: Review
-- [ ] Day 8: Intro to Pandas + NumPy
-- [ ] Day 9: Read and Analyze Stock Data
-- [ ] Day 10: Clean the Data
-- [ ] Day 11: Calculate Insights
-- [ ] Day 12: Polish my Code
-- [ ] Day 13: Document the project
-- [ ] Day 14: Run the final version
-- [ ] Day 15: Build Student Grade Tracker App
-- [ ] Day 16: Build a basic Calculator
-- [ ] Day 17: Build a app called Make Creatures Happy
-- [ ] Day 18: Build a Number Guessing Game
-- [ ] Day 19: Build a Average Calculator
-- [ ] Day 20: Build a Employee Salary Increment Data Program.
+- [✓] Day 8: Intro to Pandas + NumPy
+- [✓] Day 9: Read and Analyze Stock Data
+- [✓] Day 10: Clean the Data
+- [✓] Day 11: Calculate Insights
+- [✓] Day 12: Polish my Code
+- [✓] Day 13: Document the project
+- [✓] Day 14: Run the final version
+- [✓] Day 15: Build Student Grade Tracker App
+- [✓] Day 16: Build a basic Calculator
+- [✓] Day 17: Build a app called Make Creatures Happy
+- [✓] Day 18: Build a Number Guessing Game
+- [✓] Day 19: Build a Average Calculator
+- [✓] Day 20: Build a Employee Salary Increment Data Program.
 
