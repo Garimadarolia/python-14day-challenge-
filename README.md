@@ -12,5 +12,11 @@
 - [ ] Day 11: Calculate Insights
 - [ ] Day 12: Polish my Code
 - [ ] Day 13: Document the project
-- [ ] Day 14: Run the final version .
+- [ ] Day 14: Run the final version
+- [ ] Day 15: Build Student Grade Tracker App
+- [ ] Day 16: Build a basic Calculator
+- [ ] Day 17: Build a app called Make Creatures Happy
+- [ ] Day 18: Build a Number Guessing Game
+- [ ] Day 19: Build a Average Calculator
+- [ ] Day 20: Build a Employee Salary Increment Data Program.
 
